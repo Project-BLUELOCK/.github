@@ -3,7 +3,7 @@
 
 
 # 💫 About we:
-<br><br>👯  Olá sejam bem vindos ao Blue Lock.<br><br>🤝 Está Organização foi feita com o intuito de receber as atividades das aulas de Técnica de Programação,  ministradas pelo professor Gerson da Penha Neto, <br> da FATEC São José dos Campos - Prof. Jessen Vidal.<br><br>💬 Muito obrigado pela a atenção.<br>
+<br><br>👯  Olá sejam bem vindos ao Blue Lock.<br><br>🤝 Está Organização foi feita com o intuito de receber as atividades das aulas de Técnica de Programação,  ministradas pelo professor Gerson da Penha Neto, da FATEC São José dos Campos - Prof. Jessen Vidal.<br><br>💬 Muito obrigado pela a atenção.<br>
 
 
 # 💻 Tech Stack:
